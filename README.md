@@ -1,2 +1,2 @@
 # Note-recognition
-Musical note recognition using audio processing with python and numpy
+Musical note recognition using audio processing using python and numpy.
